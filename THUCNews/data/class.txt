@@ -1,0 +1,10 @@
+finance
+realty
+education
+science
+military
+car
+sport
+game
+entertainment
+others
